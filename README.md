@@ -57,4 +57,4 @@ Aspiring Ai Product Manager, passionate about Machine Learning, AI, and Web Deve
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-dafedar&show_icons=true&theme=radical)
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-dafedar&show_icons=true&count_private=true&theme=radical)
