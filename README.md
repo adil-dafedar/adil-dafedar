@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adil.  
 
-Aspiring Ai Product Manager, passionate about Machine Learning, AI, and Web Development. I love building interactive web tools and AI-powered solutions.  
+AI Engineer & Product Developer passionate about building AI-powered products and interactive web tools that solve real problems and delight users. I focus on turning ideas into usable, practical solutions with a product-first mindset.
 
 ---
 
@@ -18,7 +18,17 @@ Aspiring Ai Product Manager, passionate about Machine Learning, AI, and Web Deve
 - Clean, tech-themed UI using Google Fonts and modern styling  
 - MVP supports mock content; easily integrated with Google Gemini API for AI-generated slides  
 - **Tech Stack:** Python, FastAPI, HTML/CSS/JS, Google Gemini API  
-- **Use Case:** Quickly turn any topic into visually appealing slide decks for presentations, study notes, or demos  
+- **Use Case:** Quickly turn any topic into visually appealing slide decks for presentations, study notes, or demos
+
+### **AI Festival Poster Generator**
+
+ - Helps small businesses create unique, festival-themed marketing visuals instantly.
+ - Instantly generates creative posters with minimal input
+ - Personalizes posters for shop type and festival
+ - Designed for non-designers, zero learning curve
+ - Download or share posters instantly on social media
+ - Built with React (Vite) and Puter.js for AI image generation
+ - MVP focused on speed, usability, and immediate business impact
 
 ### **Predictive Modeling of CO2 Emissions in the Fossil Fuel Industry**
 - Built an XGBoost-based predictive model to forecast CO2 emissions  
@@ -45,6 +55,7 @@ Aspiring Ai Product Manager, passionate about Machine Learning, AI, and Web Deve
 ---
 
 ## 📜 Certifications
+- Building with the Claude API
 - Google Cloud Generative AI Leader Course  
 - OpenCV University Python for Beginners  
 - Aspires Leaders Program, Aspire Institute  
