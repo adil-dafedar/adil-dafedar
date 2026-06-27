@@ -1,71 +1,115 @@
-# Hi there 👋, I'm Adil.  
+# Hi there 👋, I'm Adil Dafedar
 
-AI Engineer & Product Developer passionate about building AI-powered products and interactive web tools that solve real problems and delight users. I focus on turning ideas into usable, practical solutions with a product-first mindset.
+### AI Engineer | Product Developer | B.Tech IT @ PCCOE
+
+I'm passionate about building AI-powered applications, computer vision systems, and developer-focused products that solve real-world problems. I enjoy transforming ideas into practical, user-friendly solutions by combining AI, backend engineering, and modern web technologies.
 
 ---
 
-## 🔭 Projects
+## 🚀 Projects
 
-### **Video Segmentation and Object Analysis**
-- Designed a pipeline to extract image frames from video streams  
-- Implemented object detection and segmentation using YOLOv8  
-- Generated e-commerce links for detected objects  
+### 📚 AI-Powered Content Structuring Tool
 
-### **Interactive Condensed PPT Generator**
-- Web-based tool built with FastAPI to generate dynamic, full-page slide decks from any topic  
-- AI-powered slide generation with configurable number of slides and word limits  
-- Fully responsive HTML slides with keyboard/button navigation, slide numbers, progress indicator, and smooth animations  
-- Clean, tech-themed UI using Google Fonts and modern styling  
-- MVP supports mock content; easily integrated with Google Gemini API for AI-generated slides  
-- **Tech Stack:** Python, FastAPI, HTML/CSS/JS, Google Gemini API  
-- **Use Case:** Quickly turn any topic into visually appealing slide decks for presentations, study notes, or demos
+* Built an AI application that transforms unstructured text into structured, learning-ready content.
+* Developed a FastAPI backend for efficient content processing and workflow management.
+* Designed a responsive frontend with dynamic rendering for an interactive user experience.
+* Created a modular architecture compatible with LLMs such as Google Gemini.
 
-### **AI Festival Poster Generator**
+**Tech Stack:** Python, FastAPI, HTML, CSS, JavaScript, Google Gemini API
 
- - Helps small businesses create unique, festival-themed marketing visuals instantly.
- - Instantly generates creative posters with minimal input
- - Personalizes posters for shop type and festival
- - Designed for non-designers, zero learning curve
- - Download or share posters instantly on social media
- - Built with React (Vite) and Puter.js for AI image generation
- - MVP focused on speed, usability, and immediate business impact
+---
 
-### **Predictive Modeling of CO2 Emissions in the Fossil Fuel Industry**
-- Built an XGBoost-based predictive model to forecast CO2 emissions  
-- Analyzed historical datasets to identify trends and long-term environmental impact  
-- Performed feature engineering and preprocessing to improve model accuracy  
+### 🎥 Video Frame Extraction & Object Analysis Pipeline
+
+* Developed an end-to-end computer vision pipeline for analyzing video streams.
+* Extracted frames using OpenCV and performed object detection with YOLOv8.
+* Aggregated detections across frames to generate structured insights.
+* Generated e-commerce search links for detected products, demonstrating practical real-world applications.
+
+**Tech Stack:** Python, OpenCV, YOLOv8, Ultralytics
+
+---
+
+### 🎨 AI-Powered Festival Advertising Tool
+
+* Built an AI application that generates personalized festival marketing posters for small businesses.
+* Designed an intuitive interface requiring minimal user input.
+* Enabled instant poster creation with download and sharing capabilities.
+* Integrated AI image generation using Puter.js.
+
+**Tech Stack:** React (Vite), JavaScript, Puter.js
+
+---
+
+## 💻 Technical Skills
+
+**Languages**
+
+* Python, Java, SQL, C++
+
+**AI & Data**
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Data Analysis
+
+**Frameworks**
+
+* FastAPI
+* Flask (Exposure)
+
+**Libraries**
+
+* NumPy
+* Pandas
+* OpenCV
+* Scikit-learn
+
+**Tools**
+
+* Git
+* GitHub
+* Linux
+* VS Code
+* Jupyter Notebook
 
 ---
 
 ## 🎓 Education
-**Pimpri Chinchwad College of Engineering (PCCOE)** – B.Tech in Information Technology (Aug 2023 – Present), Pune, India  
-**Dayanand Science College** – Higher Secondary Certificate (HSC), Latur, India (2021 – 2023)  
-- HSC: 72% | JEE Main: 93.98 Percentile | MHT-CET: 98.38 Percentile  
 
-**D.K. Patil Public English School** – Secondary School Certificate (SSC), Nilanga, India (2021)  
-- SSC: 95.20%  
+### Pimpri Chinchwad College of Engineering (PCCOE)
 
----
+**B.Tech – Information Technology** *(2023 – 2027)*
 
-## 💻 Skills
-- **Languages:** Python, Java, SQL  
-- **Coursework:** Machine Learning, NLP, Deep Learning, Data Science, Data Analysis  
-- **Tools:** VS Code, Jupyter Notebook, GitHub, Linux  
+### Dayanand Science College
+
+**Higher Secondary Certificate (HSC)** *(2021 – 2023)*
+
+* HSC: **72%**
+* JEE Main: **93.98 Percentile**
+* MHT-CET: **98.38 Percentile**
 
 ---
 
 ## 📜 Certifications
-- Building with the Claude API
-- Google Cloud Generative AI Leader Course  
-- OpenCV University Python for Beginners  
-- Aspires Leaders Program, Aspire Institute  
+
+* Google Cloud – Generative AI Leader
+* OpenCV University – Python for Beginners
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adil-dafedar)  
-- Email: aadildafedar313@gmail.com
+## 📫 Connect with Me
+
+* 📧 **Email:** [aadildafedar313@gmail.com](mailto:aadildafedar313@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/adil-dafedar
+* 🐙 **GitHub:** https://github.com/adil-dafedar
+
 ---
 
-## 📈 GitHub Stats
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-dafedar&show_icons=true&count_private=true&theme=radical)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil-dafedar\&show_icons=true\&count_private=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-dafedar\&layout=compact\&theme=radical)
