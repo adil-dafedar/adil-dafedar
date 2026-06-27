@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adil Dafedar
 
-### AI Engineer | Product Developer | B.Tech IT @ PCCOE
+### AI Engineer | Product Developer 
 
 I'm passionate about building AI-powered applications, computer vision systems, and developer-focused products that solve real-world problems. I enjoy transforming ideas into practical, user-friendly solutions by combining AI, backend engineering, and modern web technologies.
 
